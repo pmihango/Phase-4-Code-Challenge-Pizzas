@@ -34,7 +34,7 @@ rails s
  - Creates new Restaurant Pizza associated with existing ``Pizza` and `Restaurant`
 
  ## Deployment
- The project can be access via this deployemant link: 
+ The project can be access via this deployemant link: ['https://pizzas-lab.onrender.com']
 
  ## Copyright
  - Feel free to clone and use however you want- MIT license
