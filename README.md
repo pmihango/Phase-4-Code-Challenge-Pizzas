@@ -33,7 +33,10 @@ rails s
  `POST /restaurant_pizzas`
  - Creates new Restaurant Pizza associated with existing ``Pizza` and `Restaurant`
 
+ ## Deployment
+ The project can be access via this deployemant link: 
+
  ## Copyright
  - Feel free to clone and use however you want- MIT license
  - Owner - [Paul Mihango]
- - Github - [``]
+ - Github - [`https://github.com/pmihango/Phase-4-Code-Challenge-Pizzas`]
